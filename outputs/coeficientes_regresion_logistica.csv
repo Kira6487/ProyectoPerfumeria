@@ -1,0 +1,13 @@
+﻿variable;coeficiente;impacto
+log_visitas;0.387786;aumenta_probabilidad
+log_reservas;0.452331;aumenta_probabilidad
+es_favorito;0.508609;aumenta_probabilidad
+log_reposiciones;-0.025634;reduce_probabilidad
+log_coincidencias_busqueda;0.356151;aumenta_probabilidad
+afinidad_historica_producto;2.945614;aumenta_probabilidad
+afinidad_promedio_cluster;0.110841;aumenta_probabilidad
+coincide_marca_preferida;0.327422;aumenta_probabilidad
+coincide_familia_preferida;0.106684;aumenta_probabilidad
+coincide_genero_preferido;-0.531915;reduce_probabilidad
+precio_normalizado;0.367207;aumenta_probabilidad
+stock_normalizado;-0.605682;reduce_probabilidad

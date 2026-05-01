@@ -1,0 +1,32 @@
+﻿usuario_id,nombres,apellidos,email,movimientos,cluster,total_visitas,total_reservas,total_compras,total_favoritos,total_reposiciones,producto_mas_reservado_id,producto_mas_reservado,reservas_producto_mas_reservado,marca_preferida,familia_preferida,genero_preferido,concentracion_preferida
+2,Lucia,Garcia,cliente01@marlyperfume.pe,92,2,26,22,8,1,0,2,Miss Dior,7,Dior,Floral,MUJER,EDP
+3,Camila,Flores,cliente02@marlyperfume.pe,92,3,26,22,9,1,0,6,Dylan Blue,5,Versace,Aromatica,HOMBRE,EDT
+4,Valeria,Ramos,cliente03@marlyperfume.pe,92,0,26,22,10,1,0,20,Asad,5,Lattafa,Oriental,HOMBRE,EDP
+5,Andrea,Quispe,cliente04@marlyperfume.pe,92,1,26,22,9,1,0,28,Bloom Chic,5,Yves Saint Laurent,Oriental,MUJER,EDP
+6,Daniela,Torres,cliente05@marlyperfume.pe,92,0,26,22,8,1,0,22,Savage Code,5,Dior,Aromatica,HOMBRE,EDP
+22,Lucia,Garcia,cliente21@marlyperfume.pe,13,1,6,2,1,1,1,2,Miss Dior,2,Dior,Aromatica,HOMBRE,EDP
+23,Camila,Flores,cliente22@marlyperfume.pe,13,1,6,2,1,1,1,4,Coco Mademoiselle,2,Chanel,Floral,MUJER,EDP
+24,Valeria,Ramos,cliente23@marlyperfume.pe,13,1,6,2,0,1,1,6,Dylan Blue,2,Versace,Oriental,HOMBRE,EDT
+25,Andrea,Quispe,cliente24@marlyperfume.pe,13,1,6,2,2,1,1,8,Si,2,Giorgio Armani,Frutal,HOMBRE,EDP
+26,Daniela,Torres,cliente25@marlyperfume.pe,13,1,6,2,0,1,1,10,Invictus,2,Paco Rabanne,Oriental,HOMBRE,EDP
+27,Sofia,Sanchez,cliente26@marlyperfume.pe,13,1,6,2,0,1,1,12,212 VIP Black,2,Carolina Herrera,Aromatica,HOMBRE,EDP
+28,Fernanda,Lopez,cliente27@marlyperfume.pe,13,1,6,2,2,1,1,14,Libre,2,Yves Saint Laurent,Floral,HOMBRE,EDP
+29,Ariana,Castro,cliente28@marlyperfume.pe,13,1,6,2,0,1,1,16,Scandal,2,Jean Paul Gaultier,Floral,MUJER,EDP
+7,Sofia,Sanchez,cliente06@marlyperfume.pe,12,1,6,2,2,1,0,12,212 VIP Black,2,Carolina Herrera,Aromatica,HOMBRE,EDP
+8,Fernanda,Lopez,cliente07@marlyperfume.pe,12,1,6,2,0,1,0,14,Libre,2,Yves Saint Laurent,Floral,MUJER,EDP
+9,Ariana,Castro,cliente08@marlyperfume.pe,12,1,6,2,1,1,0,16,Scandal,2,Jean Paul Gaultier,Oriental,MUJER,EDP
+10,Mia,Vargas,cliente09@marlyperfume.pe,12,1,6,2,2,1,0,18,Club de Nuit Intense,2,Lattafa,Amaderada,HOMBRE,EDP
+11,Paola,Mendoza,cliente10@marlyperfume.pe,12,1,6,2,1,1,0,20,Asad,2,Lattafa,Amaderada,HOMBRE,EDP
+12,Lucia,Garcia,cliente11@marlyperfume.pe,12,1,6,2,0,1,0,2,Miss Dior,2,Dior,Floral,HOMBRE,EDP
+13,Camila,Flores,cliente12@marlyperfume.pe,12,1,6,2,1,1,0,4,Coco Mademoiselle,2,Chanel,Floral,HOMBRE,EDP
+14,Valeria,Ramos,cliente13@marlyperfume.pe,12,1,6,2,0,1,0,6,Dylan Blue,2,Versace,Oriental,HOMBRE,EDT
+15,Andrea,Quispe,cliente14@marlyperfume.pe,12,1,6,2,1,1,0,8,Si,2,Giorgio Armani,Aromatica,HOMBRE,EDP
+16,Daniela,Torres,cliente15@marlyperfume.pe,12,1,6,2,2,1,0,10,Invictus,2,Paco Rabanne,Aromatica,HOMBRE,EDT
+17,Sofia,Sanchez,cliente16@marlyperfume.pe,12,1,6,2,1,1,0,12,212 VIP Black,2,Carolina Herrera,Aromatica,HOMBRE,EDP
+18,Fernanda,Lopez,cliente17@marlyperfume.pe,12,1,6,2,0,1,0,14,Libre,2,Lattafa,Oriental,HOMBRE,EDP
+19,Ariana,Castro,cliente18@marlyperfume.pe,12,1,6,2,2,1,0,16,Scandal,2,Jean Paul Gaultier,Oriental,MUJER,EDP
+20,Mia,Vargas,cliente19@marlyperfume.pe,12,1,6,2,0,1,0,18,Club de Nuit Intense,2,Lattafa,Amaderada,HOMBRE,EDP
+21,Paola,Mendoza,cliente20@marlyperfume.pe,12,1,6,2,1,1,0,20,Asad,2,Lattafa,Amaderada,HOMBRE,EDP
+30,Mia,Vargas,cliente29@marlyperfume.pe,12,1,6,2,0,1,0,18,Club de Nuit Intense,2,Lattafa,Amaderada,HOMBRE,EDT
+31,Paola,Mendoza,cliente30@marlyperfume.pe,12,1,6,2,2,1,0,20,Asad,2,Lattafa,Amaderada,HOMBRE,EDP
+1,Marly,Administrador,admin@marlyperfume.pe,0,,0,0,0,0,0,,,0,,,,

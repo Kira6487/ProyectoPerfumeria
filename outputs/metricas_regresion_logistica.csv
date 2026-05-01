@@ -1,0 +1,2 @@
+﻿modelo,tipo_validacion,observaciones,compras_observadas,no_compras_observadas,accuracy,precision,recall,f1,log_loss,brier_score,error_clasificacion,nota_margen_error
+Regresion Logistica,holdout_25_por_ciento_estratificado,900,38,862,0.995556,0.9,1.0,0.947368,0.008792,0.003179,0.004444,"En regresion logistica no se usa margen de error clasico; se reportan log_loss, brier_score, error de clasificacion e incertidumbre por prediccion."
